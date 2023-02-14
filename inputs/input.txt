@@ -1,0 +1,7 @@
+This is nothing more than a simple text file.
+That's alright, it exists to test a program.
+We need plenty of these tests to ensure that the program is running smoothly.
+Just relax as the program does its thing :)
+
+Sincerely,
+lockAndKey Creator
